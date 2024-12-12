@@ -13,4 +13,4 @@ const older = users.filter(user => user.age >= 18);
 const olderNames = older.map(user => user.name);
 
 console.log(olderNames); 
-*/
+
