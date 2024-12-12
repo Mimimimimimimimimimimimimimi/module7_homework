@@ -13,4 +13,3 @@ const person = {
 };
 
 printInfo.call(person);
-*/
