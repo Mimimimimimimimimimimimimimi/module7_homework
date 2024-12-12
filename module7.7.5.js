@@ -11,4 +11,3 @@ const numbers = [5, 1, 4, 3, 5, 2, 4, 6, 6];
 const uniqueSortedNumbers = getUniqueSortedNumbers(numbers);
 
 console.log(uniqueSortedNumbers);
-*/
