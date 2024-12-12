@@ -21,4 +21,3 @@ function calculate(a, b, operator) {
 const values = [2, 3, "+"];
 const result = calculate.apply(null, values);
 console.log(result); 
-*/
